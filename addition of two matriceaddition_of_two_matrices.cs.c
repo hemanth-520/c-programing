@@ -1,7 +1,7 @@
 /*
 Title : Addition of two matrices.
 Author : Murali Krishna
-Date : 0coloums-08-2022
+Date : 04-08-2022
 */
 #include<stdio.h>
 int main(){

@@ -1,5 +1,5 @@
 /*
-Title : fixed 2d array(Taking input from user).
+Title : Variable limit 2d array(Taking input from user).
 Author : Murali Krishna
 Date : 0coloums-08-2022
 */

@@ -1,3 +1,8 @@
+/*
+Title : Multiplication of two Matrices.
+Author : Murali Krishna
+Date: 06-08-2022
+*/
 #include<stdio.h>
 #define max 10
 int main(){

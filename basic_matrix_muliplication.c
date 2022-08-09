@@ -1,5 +1,5 @@
 /*
-Title : Basic matrix mulriplication.
+Title : Basic matrix multiplication.
 Author : Murali Krishna
 Date: 06-08-2022
 */
